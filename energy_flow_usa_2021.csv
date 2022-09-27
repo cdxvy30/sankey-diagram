@@ -1,0 +1,16 @@
+﻿source,target,value
+Coal,Electricity System,11.62
+Natural Gas,Electricity System,35.42
+Crude Oil,Electricity System,23.24
+NGPL,Electricity System,7.06
+Nuclear Electric Power,Electricity System,8.13
+Hydro-electric Power,Electricity System,2.28
+Geothermal,Electricity System,0.206
+Solar,Electricity System,1.501
+Wind,Electricity System,3.332
+Biomass,Electricity System,4.998
+Electricity System,Residential Sector,20.88
+Electricity System,Commercial Sector,17.41
+Electricity System,Industrial Sector,32.11
+Electricity System,Transportation Sector,26.93
+Electricity System,Loss,0.457
